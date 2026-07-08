@@ -10,7 +10,7 @@ We build open maps and tools on public data, demonstrating the effectiveness in 
 
 | Tool | Status | Data source |
 |------|--------|-------------|
-| [Live Bus Map](https://github.com/corunalabs/live-bus-map) | In progress | Compañía de Tranvías de A Coruña |
+| [Bus Works](https://github.com/Coruna-Labs/bus-works) | In progress | Compañía de Tranvías de A Coruña |
 | Census Map | Planned | Instituto Nacional de Estadística |
 | School Zone Finder | Planned | Concello da Coruña · Xunta de Galicia |
 
