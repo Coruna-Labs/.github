@@ -1,8 +1,8 @@
 # Coruña Labs
 
-Tools that make the city legible.
+A small, independent civic-tech lab for A Coruña, Galicia.
 
-Coruña Labs builds open maps and tools on public data — turning the everyday work of the city into something anyone can use.
+We build open maps and tools on public data, demonstrating the effectiveness in open data, and turning the everyday work of the city and its institutions into things any resident can use.
 
 ---
 
@@ -26,7 +26,7 @@ Each project lives in its own repository, is deployed independently, and can be 
 
 ## About
 
-Coruña Labs is not a company and not for profit. It is directed by [Allen Shaibani](https://allenshaibani.com), an urban planner and NYC-based public administrator. In time the lab may pursue grants or work with public and non-governmental partners.
+Coruña Labs is not a company and not for profit.
 
 The lab works in Galician, Spanish, and English.
 
