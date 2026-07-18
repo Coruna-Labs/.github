@@ -1,8 +1,8 @@
 # Coruña Labs
 
-A small, independent civic-tech lab for A Coruña, Galicia.
+An independent civic lab concept for A Coruña
 
-We build open maps and tools on public data, demonstrating the effectiveness in open data, and turning the everyday work of the city and its institutions into things any resident can use.
+Coruña Labs builds open maps and tools on public data, turning the everyday work of the city into something anyone can use.
 
 ---
 
@@ -16,19 +16,26 @@ We build open maps and tools on public data, demonstrating the effectiveness in 
 
 ---
 
-## How we work
+## About
 
-Every tool here is open-source and documents where its data comes from. The model is straightforward: public institutions — the bus company, the statistical office, the Concello — already produce the data that describes the city. Our job is to make that work legible.
+Coruña Labs is a small, independent lab that builds open maps and tools on public data. It takes the information a city already produces (bus positions, census figures, school boundaries, planning records) and turns it into things anyone in A Coruña can use, in the browser, for free.
+
+The model is borrowed and inspired from civic-technology offices within the City of New York and BetaNYC: build well-made, open-source tools on public data, document how they work, and give them away. Every project here names its data sources and explains its method.
+
+## How it works
+
+The lab does not generate data. Public institutions (the Compañía de Tranvías, the Instituto Nacional de Estadística, the Concello da Coruña, the Xunta de Galicia) do that as part of running a city and a region. The idea is to make that work legible. Each tool is open-source and lives in its own repository, so anyone can read it, reuse it, or improve it.
 
 Each project lives in its own repository, is deployed independently, and can be read, reused, or improved by anyone.
 
----
+## Languages
 
-## About
+The lab works in Galician, Spanish, and English, so its tools are useful both to residents of A Coruña and to a wider audience following the city's civic and urban life.
 
-Coruña Labs is not a company and not for profit.
+## Who
 
-The lab works in Galician, Spanish, and English.
+Coruña Labs is an independent concept, not a company and not for profit.
+
 
 **Website:** [corunalabs.org](https://corunalabs.org)
 
