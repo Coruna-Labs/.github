@@ -12,7 +12,7 @@ Coruña Labs builds open maps and tools on public data, turning the everyday wor
 |------|--------|-------------|
 | [Bus Works](https://github.com/Coruna-Labs/bus-works) | Complete | Compañía de Tranvías de A Coruña |
 | [ADRH Mapper](https://github.com/Coruna-Labs/adrh-mapper) | Complete | Instituto Nacional de Estadística |
-| School Zone Finder | Planned | Concello da Coruña · Xunta de Galicia |
+| [Zonas Escolares](https://github.com/Coruna-Labs/zonas-escolares) | Complete | Xunta de Galicia |
 
 ---
 
